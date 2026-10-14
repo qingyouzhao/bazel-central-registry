@@ -12,7 +12,8 @@
         "github:Open-Cascade-SAS/OCCT"
     ],
     "versions": [
-        "8.0.1"
+        "8.0.1",
+        "8.0.1.bcr.1"
     ],
     "yanked_versions": {}
 }

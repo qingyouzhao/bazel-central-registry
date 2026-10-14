@@ -1,0 +1,12 @@
+{
+    "url": "https://github.com/Open-Cascade-SAS/OCCT/archive/refs/tags/V8_0_1.tar.gz",
+    "integrity": "sha256-DWkT6uS8wJo2U87O1t2hrsEcNaFRPUwGdiybACCSxoo=",
+    "strip_prefix": "OCCT-8_0_1",
+    "overlay": {
+        "BUILD.bazel": "sha256-sliocnvr9fJq+L5pmWPZtKeG7EcZ1vqGROeH91AGYzw=",
+        "bcr_test/BUILD.bazel": "sha256-XUK7vyaSe6Fq0uYw4pmPsBjVf6MFL0PKnNVANWyvf8M=",
+        "bcr_test/MODULE.bazel": "sha256-zYXNGtgAOXpjDkW84MxpNZC6f6h0MIsiNDG7zU1HOE0=",
+        "bcr_test/make_box_test.cpp": "sha256-hJ+eaQDQ4G6Ati3UFH4VxJIu+MH8ncc768onNby3BSE=",
+        "occt.bzl": "sha256-shL4AiproOKDA6hdHz9p+SbVC0KBgUVZK29K2aUelDY="
+    }
+}
